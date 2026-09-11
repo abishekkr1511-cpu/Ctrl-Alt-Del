@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ctrl+Alt+Del</string>
+    <string name="notification_channel_name">Ctrl+Alt+Del Offline Emergency Service</string>
+    <string name="notification_channel_desc">Maintains BLE background discovery and emergency alert transmission</string>
+    <string name="service_running_title">Ctrl+Alt+Del Emergency Mesh Active</string>
+    <string name="service_running_text">Listening for emergency alerts &amp; nearby devices</string>
+</resources>

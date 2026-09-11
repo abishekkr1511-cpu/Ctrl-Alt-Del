@@ -1,0 +1,29 @@
+# Built binaries and packages
+*.apk
+*.aab
+*.ap_
+
+# Build directories and outputs
+build/
+**/build/
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Gradle cache and state
+.gradle/
+
+# Local configuration and machine-specific paths
+local.properties
+/local.properties
+
+# Android Studio and IDE configurations
+.idea/
+*.iml
+.idea
+.DS_Store
+
+# Kotlin daemon and compiler cache
+.kotlin/
+
